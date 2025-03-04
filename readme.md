@@ -1,6 +1,6 @@
 
 
-# Picozig  
+# Pico 
 
 🚀 **Ultra-fast HTTP request parser in pure Zig**  
 
